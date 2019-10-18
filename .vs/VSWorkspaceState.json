@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\src",
+    "\\src\\app",
+    "\\src\\app\\input-button-unit",
+    "\\src\\app\\interfaces",
+    "\\src\\app\\list-manager",
+    "\\src\\app\\todo-item"
+  ],
+  "SelectedNode": "\\src\\app\\todo-item",
+  "PreviewInSolutionExplorer": false
+}
